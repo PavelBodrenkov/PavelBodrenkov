@@ -15,8 +15,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## :fist: Моя Статистика
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelBodrenkov&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelBodrenkov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelBodrenkov&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelBodrenkov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **PavelBodrenkov/PavelBodrenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
