@@ -15,6 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=postman)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongoDB)
+![SCSS](https://img.shields.io/badge/-SCSS-181717?style=flat-square&color=pink)
 
 
 ## :fist: Моя Статистика:
