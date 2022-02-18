@@ -16,7 +16,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=postman)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat-square&logo=mongoDB)
 ![SCSS](https://img.shields.io/badge/-SCSS-181717?style=flat-square&color=pink)
-![Laravel](https://img.shields.io/badge/-Laravel-181717?style=flat-square&color=grey)
+![Laravel](https://img.shields.io/badge/-Laravel-181717?style=flat-square&color=black)
+![PHP](https://img.shields.io/badge/-PHP-181717?style=flat-square&color=black)
 
 
 ## :fist: Моя Статистика:
