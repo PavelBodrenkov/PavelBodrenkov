@@ -18,6 +18,7 @@
 ![Less](https://img.shields.io/badge/-Less-181717?style=flat-square&color=pink&&logo=less)
 ![Laravel](https://img.shields.io/badge/-Laravel-181717?style=flat-square&color=black&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-181717?style=flat-square&color=black&&logo=php)
+![GitLab](https://img.shields.io/badge/-GitLAb-181717?style=flat-square&color=black&&logo=gitlab)
 
 
 ## :fist: Моя Статистика:
