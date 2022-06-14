@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLAb-181717?style=flat-square&color=black&&logo=gitlab)
-![Nest](https://img.shields.io/badge/-Nest-181717?style=flat-square&color=black&&logo=gitlab)
+![Nest](https://img.shields.io/badge/-Nest-181717?style=flat-square&color=black&&logo=nest)
 
 
 ## :fist: Моя Статистика:
